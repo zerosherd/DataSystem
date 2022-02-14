@@ -3,8 +3,6 @@
 [![Author](https://img.shields.io/badge/Author-ZeroSherd-red.svg "Author")](https://www.zerosherd.site)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-## Project Information
-
 ### Description
 A simple and stable data system which is develop by SpringBoot
 
