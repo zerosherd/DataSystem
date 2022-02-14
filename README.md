@@ -10,4 +10,4 @@ A simple and stable data system which is develop by SpringBoot
 [ZeroSherd](https://github.com/ZeroSherd)
 
 ## Status
-https://img.shields.io/github/checks-status/ZeroSherd/DataSystem/OfficialPublishVersion?color=Yellow&label=Status
+![GitHub branch checks state](https://img.shields.io/github/checks-status/ZeroSherd/DataSystem/OfficialPublishVersion?color=Yellow&label=Status)
