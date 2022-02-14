@@ -7,7 +7,7 @@
 A simple and stable data system which is develop by SpringBoot
 
 ## Maintainer
-[@ZeroSherd](https://github.com/ZeroSherd)
+[ZeroSherd](https://github.com/ZeroSherd)
 
 ## Status
 https://img.shields.io/github/checks-status/ZeroSherd/DataSystem/OfficialPublishVersion?color=Yellow&label=Status
