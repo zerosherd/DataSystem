@@ -1,7 +1,6 @@
 package zerosherd.project.DataManager.dao;
 
 import org.apache.ibatis.annotations.Mapper;
-import org.springframework.stereotype.Component;
 import org.springframework.stereotype.Repository;
 import zerosherd.project.DataManager.entity.User;
 
